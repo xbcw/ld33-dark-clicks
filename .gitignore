@@ -1,0 +1,9 @@
+Assembly-*
+Library
+LudumDare33*
+ProjectSettings/
+Temp/
+Assets/images
+Assets/Raw
+Build
+*.meta
